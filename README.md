@@ -1,3 +1,6 @@
+node modules is not included in this repo, install it first to use the files
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
